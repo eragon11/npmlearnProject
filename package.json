@@ -1,0 +1,12 @@
+{
+  "name": "eragon-project",
+  "version": "1.0.1",
+  "description": "it is testing project for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "echo": "echo $path"
+  },
+  "author": "elavarasanpl",
+  "license": "ISC"
+}
